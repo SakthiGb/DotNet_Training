@@ -1,0 +1,7 @@
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\bin\Debug\Dot net Assessment.exe.config
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\bin\Debug\Dot net Assessment.exe
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\bin\Debug\Dot net Assessment.pdb
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\obj\Debug\Dot net Assessment.csprojAssemblyReference.cache
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\obj\Debug\Dot net Assessment.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\obj\Debug\Dot net Assessment.exe
+D:\DotNet Training\Dot net Assessment\Dot net Assessment\obj\Debug\Dot net Assessment.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcedure_with_outputParameter", "StoredProcedure_with_outputParameter\StoredProcedure_with_outputParameter.csproj", "{7D05248E-C2BA-493C-82D9-61B9A423EEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D05248E-C2BA-493C-82D9-61B9A423EEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D05248E-C2BA-493C-82D9-61B9A423EEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D05248E-C2BA-493C-82D9-61B9A423EEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D05248E-C2BA-493C-82D9-61B9A423EEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88A0BE8-8294-4FB5-A2B3-0401361F82B7}
+	EndGlobalSection
+EndGlobal

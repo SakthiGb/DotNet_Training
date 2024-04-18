@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet Training\\StoredProcedure_with_outputParameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D05248E-C2BA-493C-82D9-61B9A423EEFF}|StoredProcedure_with_outputParameter\\StoredProcedure_with_outputParameter.csproj|d:\\dotnet training\\storedprocedure_with_outputparameter\\storedprocedure_with_outputparameter\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D05248E-C2BA-493C-82D9-61B9A423EEFF}|StoredProcedure_with_outputParameter\\StoredProcedure_with_outputParameter.csproj|solutionrelative:storedprocedure_with_outputparameter\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm.aspx.cs",
+              "DocumentMoniker": "D:\\DotNet Training\\StoredProcedure_with_outputParameter\\StoredProcedure_with_outputParameter\\WebForm.aspx.cs",
+              "RelativeDocumentMoniker": "StoredProcedure_with_outputParameter\\WebForm.aspx.cs",
+              "ToolTip": "D:\\DotNet Training\\StoredProcedure_with_outputParameter\\StoredProcedure_with_outputParameter\\WebForm.aspx.cs",
+              "RelativeToolTip": "StoredProcedure_with_outputParameter\\WebForm.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:05:38.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

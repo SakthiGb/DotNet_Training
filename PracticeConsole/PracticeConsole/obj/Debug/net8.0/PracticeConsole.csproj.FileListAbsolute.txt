@@ -1,0 +1,14 @@
+D:\DotNet Training\PracticeConsole\PracticeConsole\bin\Debug\net8.0\PracticeConsole.exe
+D:\DotNet Training\PracticeConsole\PracticeConsole\bin\Debug\net8.0\PracticeConsole.deps.json
+D:\DotNet Training\PracticeConsole\PracticeConsole\bin\Debug\net8.0\PracticeConsole.runtimeconfig.json
+D:\DotNet Training\PracticeConsole\PracticeConsole\bin\Debug\net8.0\PracticeConsole.dll
+D:\DotNet Training\PracticeConsole\PracticeConsole\bin\Debug\net8.0\PracticeConsole.pdb
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.AssemblyInfoInputs.cache
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.AssemblyInfo.cs
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.csproj.CoreCompileInputs.cache
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.dll
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\refint\PracticeConsole.dll
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.pdb
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\PracticeConsole.genruntimeconfig.cache
+D:\DotNet Training\PracticeConsole\PracticeConsole\obj\Debug\net8.0\ref\PracticeConsole.dll

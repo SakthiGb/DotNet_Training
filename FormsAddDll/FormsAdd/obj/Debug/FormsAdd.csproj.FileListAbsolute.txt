@@ -1,0 +1,9 @@
+D:\DotNet Training\FormsAdd\FormsAdd\bin\Debug\FormsAdd.exe.config
+D:\DotNet Training\FormsAdd\FormsAdd\bin\Debug\FormsAdd.exe
+D:\DotNet Training\FormsAdd\FormsAdd\bin\Debug\FormsAdd.pdb
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.csprojAssemblyReference.cache
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.Properties.Resources.resources
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.csproj.GenerateResource.cache
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.csproj.CoreCompileInputs.cache
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.exe
+D:\DotNet Training\FormsAdd\FormsAdd\obj\Debug\FormsAdd.pdb

@@ -1,0 +1,7 @@
+D:\DotNet Training\TicketReceipt\TicketReceipt\bin\Debug\TicketReceipt.exe.config
+D:\DotNet Training\TicketReceipt\TicketReceipt\bin\Debug\TicketReceipt.exe
+D:\DotNet Training\TicketReceipt\TicketReceipt\bin\Debug\TicketReceipt.pdb
+D:\DotNet Training\TicketReceipt\TicketReceipt\obj\Debug\TicketReceipt.csproj.CoreCompileInputs.cache
+D:\DotNet Training\TicketReceipt\TicketReceipt\obj\Debug\TicketReceipt.exe
+D:\DotNet Training\TicketReceipt\TicketReceipt\obj\Debug\TicketReceipt.pdb
+D:\DotNet Training\TicketReceipt\TicketReceipt\obj\Debug\TicketReceipt.csproj.AssemblyReference.cache

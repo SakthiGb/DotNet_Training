@@ -1,0 +1,7 @@
+D:\DotNet Training\Files IO\Files IO\bin\Debug\Files IO.exe.config
+D:\DotNet Training\Files IO\Files IO\bin\Debug\Files IO.exe
+D:\DotNet Training\Files IO\Files IO\bin\Debug\Files IO.pdb
+D:\DotNet Training\Files IO\Files IO\obj\Debug\Files IO.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Files IO\Files IO\obj\Debug\Files IO.exe
+D:\DotNet Training\Files IO\Files IO\obj\Debug\Files IO.pdb
+D:\DotNet Training\Files IO\Files IO\obj\Debug\Files IO.csproj.AssemblyReference.cache

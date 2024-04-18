@@ -1,0 +1,7 @@
+D:\DotNet Training\Collections and Generics\Collections and Generics\bin\Debug\Collections and Generics.exe.config
+D:\DotNet Training\Collections and Generics\Collections and Generics\bin\Debug\Collections and Generics.exe
+D:\DotNet Training\Collections and Generics\Collections and Generics\bin\Debug\Collections and Generics.pdb
+D:\DotNet Training\Collections and Generics\Collections and Generics\obj\Debug\Collections and Generics.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Collections and Generics\Collections and Generics\obj\Debug\Collections and Generics.exe
+D:\DotNet Training\Collections and Generics\Collections and Generics\obj\Debug\Collections and Generics.pdb
+D:\DotNet Training\Collections and Generics\Collections and Generics\obj\Debug\Collections and Generics.csproj.AssemblyReference.cache
